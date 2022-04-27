@@ -29,3 +29,6 @@ client.on('message', msg => {
 });
 
 client.login('your-token-bot');
+
+
+well dont copy this text and for next script is coming soon
